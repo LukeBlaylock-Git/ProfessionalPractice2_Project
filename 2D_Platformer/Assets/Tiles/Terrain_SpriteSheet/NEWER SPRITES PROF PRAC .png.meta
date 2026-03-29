@@ -1,0 +1,2476 @@
+fileFormatVersion: 2
+guid: b5af3684f92dc3646b9ffa5b5633726c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1716409014483716846
+    second: NEWER SPRITES PROF PRAC _0
+  - first:
+      213: -7914019865651394372
+    second: NEWER SPRITES PROF PRAC _1
+  - first:
+      213: -2160765962097917434
+    second: NEWER SPRITES PROF PRAC _2
+  - first:
+      213: 1707588717084855403
+    second: NEWER SPRITES PROF PRAC _3
+  - first:
+      213: 8055543886359676791
+    second: NEWER SPRITES PROF PRAC _4
+  - first:
+      213: -59408811325556404
+    second: NEWER SPRITES PROF PRAC _5
+  - first:
+      213: -7774467796842507056
+    second: NEWER SPRITES PROF PRAC _6
+  - first:
+      213: 1526123673625616484
+    second: NEWER SPRITES PROF PRAC _7
+  - first:
+      213: -731372847947702684
+    second: NEWER SPRITES PROF PRAC _8
+  - first:
+      213: 7589037892489745125
+    second: NEWER SPRITES PROF PRAC _9
+  - first:
+      213: -6895571782750483223
+    second: NEWER SPRITES PROF PRAC _10
+  - first:
+      213: 5921004270240399132
+    second: NEWER SPRITES PROF PRAC _11
+  - first:
+      213: -3633240902622549477
+    second: NEWER SPRITES PROF PRAC _12
+  - first:
+      213: -5080252075298354272
+    second: NEWER SPRITES PROF PRAC _13
+  - first:
+      213: -8594220428349287631
+    second: NEWER SPRITES PROF PRAC _14
+  - first:
+      213: 450717559900237844
+    second: NEWER SPRITES PROF PRAC _15
+  - first:
+      213: -1277967813090873310
+    second: NEWER SPRITES PROF PRAC _16
+  - first:
+      213: -596024213403419872
+    second: NEWER SPRITES PROF PRAC _17
+  - first:
+      213: 117868882002628324
+    second: NEWER SPRITES PROF PRAC _18
+  - first:
+      213: -4268135409358287103
+    second: NEWER SPRITES PROF PRAC _19
+  - first:
+      213: 7886841229556493672
+    second: NEWER SPRITES PROF PRAC _20
+  - first:
+      213: 2389768509513802917
+    second: NEWER SPRITES PROF PRAC _21
+  - first:
+      213: -4995338964722850515
+    second: NEWER SPRITES PROF PRAC _22
+  - first:
+      213: 6611503362210103268
+    second: NEWER SPRITES PROF PRAC _23
+  - first:
+      213: 1022496738024423737
+    second: NEWER SPRITES PROF PRAC _24
+  - first:
+      213: 8995525109617562206
+    second: NEWER SPRITES PROF PRAC _25
+  - first:
+      213: 3603402813957839027
+    second: NEWER SPRITES PROF PRAC _26
+  - first:
+      213: -6901529897179159184
+    second: NEWER SPRITES PROF PRAC _27
+  - first:
+      213: 3734885515676742657
+    second: NEWER SPRITES PROF PRAC _28
+  - first:
+      213: 7864114488883233890
+    second: NEWER SPRITES PROF PRAC _29
+  - first:
+      213: 4031058434927221351
+    second: NEWER SPRITES PROF PRAC _30
+  - first:
+      213: -9142762998360856109
+    second: NEWER SPRITES PROF PRAC _31
+  - first:
+      213: 361226404269238710
+    second: NEWER SPRITES PROF PRAC _32
+  - first:
+      213: 2958749121601243671
+    second: NEWER SPRITES PROF PRAC _33
+  - first:
+      213: 6284348458814274621
+    second: NEWER SPRITES PROF PRAC _34
+  - first:
+      213: -5655664477266749102
+    second: NEWER SPRITES PROF PRAC _35
+  - first:
+      213: -1915122799005872578
+    second: NEWER SPRITES PROF PRAC _36
+  - first:
+      213: 2135521776923558444
+    second: NEWER SPRITES PROF PRAC _37
+  - first:
+      213: 5145921285805438131
+    second: NEWER SPRITES PROF PRAC _38
+  - first:
+      213: -6100514767696736918
+    second: NEWER SPRITES PROF PRAC _39
+  - first:
+      213: 5774553523015146720
+    second: NEWER SPRITES PROF PRAC _40
+  - first:
+      213: -5205027335591141683
+    second: NEWER SPRITES PROF PRAC _41
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: NEWER SPRITES PROF PRAC _0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 214
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eea849d97e8e1d710800000000000000
+      internalID: 1716409014483716846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWER SPRITES PROF PRAC _1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 214
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb8c67accd0cb2290800000000000000
+      internalID: -7914019865651394372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWER SPRITES PROF PRAC _2
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 214
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60206624eca6302e0800000000000000
+      internalID: -2160765962097917434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWER SPRITES PROF PRAC _3
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 214
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6cce4814e292b710800000000000000
+      internalID: 1707588717084855403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWER SPRITES PROF PRAC _4
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 214
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 777c90b0c7a0bcf60800000000000000
+      internalID: 8055543886359676791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWER SPRITES PROF PRAC _5
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 166
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4979683000fc2ff0800000000000000
+      internalID: -59408811325556404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWER SPRITES PROF PRAC _6
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 180
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d41d7bcaba8b1490800000000000000
+      internalID: -7774467796842507056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWER SPRITES PROF PRAC _7
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 166
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 460e4c93561ed2510800000000000000
+      internalID: 1526123673625616484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWER SPRITES PROF PRAC _8
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 180
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46e16bf0544a9d5f0800000000000000
+      internalID: -731372847947702684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWER SPRITES PROF PRAC _9
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 166
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e294d831cda15960800000000000000
+      internalID: 7589037892489745125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWER SPRITES PROF PRAC _10
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 180
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ec43f57ff10e40a0800000000000000
+      internalID: -6895571782750483223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWER SPRITES PROF PRAC _11
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 166
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1fff315302ab2250800000000000000
+      internalID: 5921004270240399132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWER SPRITES PROF PRAC _12
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 180
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1a63c716a2249dc0800000000000000
+      internalID: -3633240902622549477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWER SPRITES PROF PRAC _13
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 166
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ab866267a15f79b0800000000000000
+      internalID: -5080252075298354272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWER SPRITES PROF PRAC _14
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 180
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 133d5d6fd023bb880800000000000000
+      internalID: -8594220428349287631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWER SPRITES PROF PRAC _15
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 102
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41072e39b35414600800000000000000
+      internalID: 450717559900237844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWER SPRITES PROF PRAC _16
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 102
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 220f5528b0fb34ee0800000000000000
+      internalID: -1277967813090873310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWER SPRITES PROF PRAC _17
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 102
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02bbe82c22f7ab7f0800000000000000
+      internalID: -596024213403419872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWER SPRITES PROF PRAC _18
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 102
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4eec6d9af11c2a100800000000000000
+      internalID: 117868882002628324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWER SPRITES PROF PRAC _19
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 102
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10fceef657984c4c0800000000000000
+      internalID: -4268135409358287103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWER SPRITES PROF PRAC _20
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 102
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86dae9fdf40b37d60800000000000000
+      internalID: 7886841229556493672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWER SPRITES PROF PRAC _21
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 102
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a42cf04cc92a2120800000000000000
+      internalID: 2389768509513802917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWER SPRITES PROF PRAC _22
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 102
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d25e6039dadfcaab0800000000000000
+      internalID: -4995338964722850515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWER SPRITES PROF PRAC _23
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 102
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ef75d75747c0cb50800000000000000
+      internalID: 6611503362210103268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWER SPRITES PROF PRAC _24
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 102
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93101f5ad53a03e00800000000000000
+      internalID: 1022496738024423737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWER SPRITES PROF PRAC _25
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 102
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e529cd64d6686dc70800000000000000
+      internalID: 8995525109617562206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWER SPRITES PROF PRAC _26
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 102
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b8999484cbd10230800000000000000
+      internalID: 3603402813957839027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWER SPRITES PROF PRAC _27
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 102
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 075e5e7df17d830a0800000000000000
+      internalID: -6901529897179159184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWER SPRITES PROF PRAC _28
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 102
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 104f9a6969af4d330800000000000000
+      internalID: 3734885515676742657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWER SPRITES PROF PRAC _29
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 102
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26443e63672f22d60800000000000000
+      internalID: 7864114488883233890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWER SPRITES PROF PRAC _30
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 54
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76adda20a4231f730800000000000000
+      internalID: 4031058434927221351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWER SPRITES PROF PRAC _31
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 54
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d9ad115e716e1180800000000000000
+      internalID: -9142762998360856109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWER SPRITES PROF PRAC _32
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 54
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b9a5f53085530500800000000000000
+      internalID: 361226404269238710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWER SPRITES PROF PRAC _33
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 54
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71a8a8466a69f0920800000000000000
+      internalID: 2958749121601243671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWER SPRITES PROF PRAC _34
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 54
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3cf56c90ad763750800000000000000
+      internalID: 6284348458814274621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWER SPRITES PROF PRAC _35
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 54
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25958b77f1b0381b0800000000000000
+      internalID: -5655664477266749102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWER SPRITES PROF PRAC _36
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 70
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3ec00806fd1c65e0800000000000000
+      internalID: -1915122799005872578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWER SPRITES PROF PRAC _37
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 70
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c22c3abddb5e2ad10800000000000000
+      internalID: 2135521776923558444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWER SPRITES PROF PRAC _38
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 54
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b4fd8a252cf96740800000000000000
+      internalID: 5145921285805438131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWER SPRITES PROF PRAC _39
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 6
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6d4964042e965ba0800000000000000
+      internalID: -6100514767696736918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWER SPRITES PROF PRAC _40
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 6
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ec5cc395d5532050800000000000000
+      internalID: 5774553523015146720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWER SPRITES PROF PRAC _41
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 6
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dce54e7373704c7b0800000000000000
+      internalID: -5205027335591141683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWER SPRITES PROF PRAC _42
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 6
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 177a2a3f62a33a44cae9c7dcd9050de0
+      internalID: 2038152650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWER SPRITES PROF PRAC _43
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 6
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a1ef71724198654c8e4032ca1b01da7
+      internalID: -468718364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWER SPRITES PROF PRAC _44
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 6
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa71e60097161934da5175930bda9f53
+      internalID: -1813033670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWER SPRITES PROF PRAC _45
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 6
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cf8f1b5cfcbfb046bf0e5feecc7218d
+      internalID: 780145334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWER SPRITES PROF PRAC _46
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 6
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3011d6ed0f4106446902a7f2906969b2
+      internalID: -1771390256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWER SPRITES PROF PRAC _47
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 6
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfe4866d0fe884c408277a38391ef9cb
+      internalID: -569455729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWER SPRITES PROF PRAC _48
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 134
+        width: 16
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef4e29129e02c05408bbd7be082ee7ef
+      internalID: 143581159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWER SPRITES PROF PRAC _49
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 22
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d742c948f971604c99a850cc5d9ea6c
+      internalID: 1465204322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWER SPRITES PROF PRAC _50
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 22
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb58660749db3954f9da3ae785502384
+      internalID: 569667529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWER SPRITES PROF PRAC _51
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 22
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83b08b9c280dbcb43b642699fba50658
+      internalID: -1042661486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWER SPRITES PROF PRAC _52
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 22
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b34f62374d11e5e439f7ab1c5477a8ff
+      internalID: -327338807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWER SPRITES PROF PRAC _53
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 22
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79c2ebe245cd6e64e9cb2062ebddf7f7
+      internalID: 1122186935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWER SPRITES PROF PRAC _54
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 22
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8589c37ab7916aa46a9972406dcc748d
+      internalID: 153984347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWER SPRITES PROF PRAC _55
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 118
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2299e03d7f371941bb687a48cf557ad
+      internalID: -875366990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWER SPRITES PROF PRAC _56
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 134
+        width: 16
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c94405682059a8243bb603a94f0ba1fe
+      internalID: -330174187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWER SPRITES PROF PRAC _57
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 118
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22449ce879d7ca54a9c04e366146fdee
+      internalID: -503302495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWER SPRITES PROF PRAC _58
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 118
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c03eaed473b3eb40b871661bdc81123
+      internalID: 1257715265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWER SPRITES PROF PRAC _59
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 134
+        width: 16
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a88b24f992888c14b9b27def4644164f
+      internalID: -1514148928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWER SPRITES PROF PRAC _60
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 134
+        width: 16
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a70d5628cc96a114b8f220cef22e2bd9
+      internalID: -602369754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWER SPRITES PROF PRAC _61
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 134
+        width: 16
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5846baf5cc0b45b4686f51707037cd93
+      internalID: -642588188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWER SPRITES PROF PRAC _62
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 118
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d78e7a0dcc394634dadce0da5cc34ef1
+      internalID: -1414157111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWER SPRITES PROF PRAC _63
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 134
+        width: 16
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d880825077727b241881bf7210e7d1c1
+      internalID: 1082613658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWER SPRITES PROF PRAC _64
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 118
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0d29e7f63d08094da2c77b258e3418d
+      internalID: -858325587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWER SPRITES PROF PRAC _65
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 134
+        width: 16
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08b01b4961ccd224bb74f44c2c33b1af
+      internalID: -721213277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWER SPRITES PROF PRAC _66
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 134
+        width: 16
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fc8b72e5586d3e4bbc8a4f5816b428e
+      internalID: -879107135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWER SPRITES PROF PRAC _67
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 118
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e63e2c632339a244eb60c2312b77be2c
+      internalID: -2007603376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWER SPRITES PROF PRAC _68
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 134
+        width: 16
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2753e4d5ac0fc4e43a4c1f8a6d5caaaf
+      internalID: -1584692207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWER SPRITES PROF PRAC _69
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 134
+        width: 16
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 577d701d8010f3f4d8c0d60a4066c586
+      internalID: -432950260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWER SPRITES PROF PRAC _70
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 118
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 640dab5c0535ce74d8bdc1068dcee8c4
+      internalID: 1687483927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWER SPRITES PROF PRAC _71
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 134
+        width: 16
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4fbe0fbab59e4748aa0c3f806d43f70
+      internalID: 1390345616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWER SPRITES PROF PRAC _72
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 134
+        width: 16
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0160b1de89385da40a7b6c683c0d9e51
+      internalID: -2100865109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWER SPRITES PROF PRAC _73
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 118
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ed7a03daf84ae34b9de10a1935eb39a
+      internalID: 1194130701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWER SPRITES PROF PRAC _74
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 134
+        width: 16
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f605d1950dec1d428e38ed6accbce40
+      internalID: 959028073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWER SPRITES PROF PRAC _75
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 134
+        width: 16
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c31df5be537a9264ab531805804dfa91
+      internalID: -1054148133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWER SPRITES PROF PRAC _76
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 118
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9130d71cd13952499c091fe260af493
+      internalID: -1141217737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWER SPRITES PROF PRAC _77
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 134
+        width: 16
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edc88f2954a4ca34ea2bf4586aab5255
+      internalID: 1583710035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWER SPRITES PROF PRAC _78
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 118
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0524043f3f07bc344a530d7d67d634da
+      internalID: -1603905871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWER SPRITES PROF PRAC _79
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 134
+        width: 16
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6995a1ac74363d248b23d2fed4bd0304
+      internalID: 1483758036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWER SPRITES PROF PRAC _80
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 134
+        width: 16
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef6bed31f2ef14341a05243aa85052fb
+      internalID: 220102286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWER SPRITES PROF PRAC _81
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 118
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc7aa0f352373b34a9bacc4b675635fc
+      internalID: 1660425326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWER SPRITES PROF PRAC _82
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 134
+        width: 16
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 803532a9b1632fa408914a4517348652
+      internalID: 293534746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWER SPRITES PROF PRAC _83
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 134
+        width: 16
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9121995550264b4faaab40b02d3534c
+      internalID: -778529651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWER SPRITES PROF PRAC _84
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 118
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06cd852c7ef89304583b88aaf2e43ee6
+      internalID: 442366441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWER SPRITES PROF PRAC _85
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 134
+        width: 16
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38287b23e3080f8489e0b9e73478e2e8
+      internalID: -1221967238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWER SPRITES PROF PRAC _86
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 118
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88f250530c1b0cb46809d2fa76919a43
+      internalID: 1856589649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWER SPRITES PROF PRAC _87
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 134
+        width: 16
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d02648c33f0c04c4aa8c700537cde94c
+      internalID: -213991125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWER SPRITES PROF PRAC _88
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 134
+        width: 16
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e7ec72b1df2a444fa5be3925e91131a
+      internalID: 1101563471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWER SPRITES PROF PRAC _89
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 118
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 724bffbd3ef6bda469d53bf556112c8c
+      internalID: 1942130483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWER SPRITES PROF PRAC _90
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 134
+        width: 16
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 557fa8400fdf0874f812b99e1483fc88
+      internalID: -1030679941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWER SPRITES PROF PRAC _91
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 118
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee0f34363e1494b44838fa4c4470192e
+      internalID: 410135093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWER SPRITES PROF PRAC _92
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 134
+        width: 16
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b02492c52c6ece2418e9870e3f8a16d5
+      internalID: 1388384699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWER SPRITES PROF PRAC _93
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 134
+        width: 16
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e1a3d5449099a848b95e8b64271b1e1
+      internalID: -1837569760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWER SPRITES PROF PRAC _94
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 22
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1e28dc173832f4469d085160f82aab6
+      internalID: -729293142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWER SPRITES PROF PRAC _95
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 22
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c67926f23077d054987952c12a20edf3
+      internalID: -165657200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWER SPRITES PROF PRAC _96
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 22
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0881e8a92ccd66e48bded142aafbddc4
+      internalID: 1454110928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: e8ec7810aacf40247bc54a541b80e90d
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      NEWER SPRITES PROF PRAC _0: 1716409014483716846
+      NEWER SPRITES PROF PRAC _1: -7914019865651394372
+      NEWER SPRITES PROF PRAC _10: -6895571782750483223
+      NEWER SPRITES PROF PRAC _11: 5921004270240399132
+      NEWER SPRITES PROF PRAC _12: -3633240902622549477
+      NEWER SPRITES PROF PRAC _13: -5080252075298354272
+      NEWER SPRITES PROF PRAC _14: -8594220428349287631
+      NEWER SPRITES PROF PRAC _15: 450717559900237844
+      NEWER SPRITES PROF PRAC _16: -1277967813090873310
+      NEWER SPRITES PROF PRAC _17: -596024213403419872
+      NEWER SPRITES PROF PRAC _18: 117868882002628324
+      NEWER SPRITES PROF PRAC _19: -4268135409358287103
+      NEWER SPRITES PROF PRAC _2: -2160765962097917434
+      NEWER SPRITES PROF PRAC _20: 7886841229556493672
+      NEWER SPRITES PROF PRAC _21: 2389768509513802917
+      NEWER SPRITES PROF PRAC _22: -4995338964722850515
+      NEWER SPRITES PROF PRAC _23: 6611503362210103268
+      NEWER SPRITES PROF PRAC _24: 1022496738024423737
+      NEWER SPRITES PROF PRAC _25: 8995525109617562206
+      NEWER SPRITES PROF PRAC _26: 3603402813957839027
+      NEWER SPRITES PROF PRAC _27: -6901529897179159184
+      NEWER SPRITES PROF PRAC _28: 3734885515676742657
+      NEWER SPRITES PROF PRAC _29: 7864114488883233890
+      NEWER SPRITES PROF PRAC _3: 1707588717084855403
+      NEWER SPRITES PROF PRAC _30: 4031058434927221351
+      NEWER SPRITES PROF PRAC _31: -9142762998360856109
+      NEWER SPRITES PROF PRAC _32: 361226404269238710
+      NEWER SPRITES PROF PRAC _33: 2958749121601243671
+      NEWER SPRITES PROF PRAC _34: 6284348458814274621
+      NEWER SPRITES PROF PRAC _35: -5655664477266749102
+      NEWER SPRITES PROF PRAC _36: -1915122799005872578
+      NEWER SPRITES PROF PRAC _37: 2135521776923558444
+      NEWER SPRITES PROF PRAC _38: 5145921285805438131
+      NEWER SPRITES PROF PRAC _39: -6100514767696736918
+      NEWER SPRITES PROF PRAC _4: 8055543886359676791
+      NEWER SPRITES PROF PRAC _40: 5774553523015146720
+      NEWER SPRITES PROF PRAC _41: -5205027335591141683
+      NEWER SPRITES PROF PRAC _42: 2038152650
+      NEWER SPRITES PROF PRAC _43: -468718364
+      NEWER SPRITES PROF PRAC _44: -1813033670
+      NEWER SPRITES PROF PRAC _45: 780145334
+      NEWER SPRITES PROF PRAC _46: -1771390256
+      NEWER SPRITES PROF PRAC _47: -569455729
+      NEWER SPRITES PROF PRAC _48: 143581159
+      NEWER SPRITES PROF PRAC _49: 1465204322
+      NEWER SPRITES PROF PRAC _5: -59408811325556404
+      NEWER SPRITES PROF PRAC _50: 569667529
+      NEWER SPRITES PROF PRAC _51: -1042661486
+      NEWER SPRITES PROF PRAC _52: -327338807
+      NEWER SPRITES PROF PRAC _53: 1122186935
+      NEWER SPRITES PROF PRAC _54: 153984347
+      NEWER SPRITES PROF PRAC _55: -875366990
+      NEWER SPRITES PROF PRAC _56: -330174187
+      NEWER SPRITES PROF PRAC _57: -503302495
+      NEWER SPRITES PROF PRAC _58: 1257715265
+      NEWER SPRITES PROF PRAC _59: -1514148928
+      NEWER SPRITES PROF PRAC _6: -7774467796842507056
+      NEWER SPRITES PROF PRAC _60: -602369754
+      NEWER SPRITES PROF PRAC _61: -642588188
+      NEWER SPRITES PROF PRAC _62: -1414157111
+      NEWER SPRITES PROF PRAC _63: 1082613658
+      NEWER SPRITES PROF PRAC _64: -858325587
+      NEWER SPRITES PROF PRAC _65: -721213277
+      NEWER SPRITES PROF PRAC _66: -879107135
+      NEWER SPRITES PROF PRAC _67: -2007603376
+      NEWER SPRITES PROF PRAC _68: -1584692207
+      NEWER SPRITES PROF PRAC _69: -432950260
+      NEWER SPRITES PROF PRAC _7: 1526123673625616484
+      NEWER SPRITES PROF PRAC _70: 1687483927
+      NEWER SPRITES PROF PRAC _71: 1390345616
+      NEWER SPRITES PROF PRAC _72: -2100865109
+      NEWER SPRITES PROF PRAC _73: 1194130701
+      NEWER SPRITES PROF PRAC _74: 959028073
+      NEWER SPRITES PROF PRAC _75: -1054148133
+      NEWER SPRITES PROF PRAC _76: -1141217737
+      NEWER SPRITES PROF PRAC _77: 1583710035
+      NEWER SPRITES PROF PRAC _78: -1603905871
+      NEWER SPRITES PROF PRAC _79: 1483758036
+      NEWER SPRITES PROF PRAC _8: -731372847947702684
+      NEWER SPRITES PROF PRAC _80: 220102286
+      NEWER SPRITES PROF PRAC _81: 1660425326
+      NEWER SPRITES PROF PRAC _82: 293534746
+      NEWER SPRITES PROF PRAC _83: -778529651
+      NEWER SPRITES PROF PRAC _84: 442366441
+      NEWER SPRITES PROF PRAC _85: -1221967238
+      NEWER SPRITES PROF PRAC _86: 1856589649
+      NEWER SPRITES PROF PRAC _87: -213991125
+      NEWER SPRITES PROF PRAC _88: 1101563471
+      NEWER SPRITES PROF PRAC _89: 1942130483
+      NEWER SPRITES PROF PRAC _9: 7589037892489745125
+      NEWER SPRITES PROF PRAC _90: -1030679941
+      NEWER SPRITES PROF PRAC _91: 410135093
+      NEWER SPRITES PROF PRAC _92: 1388384699
+      NEWER SPRITES PROF PRAC _93: -1837569760
+      NEWER SPRITES PROF PRAC _94: -729293142
+      NEWER SPRITES PROF PRAC _95: -165657200
+      NEWER SPRITES PROF PRAC _96: 1454110928
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
