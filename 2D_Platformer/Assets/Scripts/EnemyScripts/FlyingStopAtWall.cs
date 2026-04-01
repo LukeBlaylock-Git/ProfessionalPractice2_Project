@@ -1,10 +1,9 @@
 using UnityEngine;
 
-public class TakeDamage : MonoBehaviour
+public class FlyingStopAtWall : MonoBehaviour
 {
     public EnemyData Data;
     public PlayerData PData;
-    public PlayerTakeDmg PlayerTakeDmg;
 
     private Rigidbody2D RB;
     [Header("Stats")]
@@ -33,43 +32,15 @@ public class TakeDamage : MonoBehaviour
 
     private void OnCollisionEnter2D(Collision2D Hit)
     {
-        if (Hit.collider.CompareTag("PHitbox"))
+        if (Hit.collider.CompareTag("Ground"))
         {
-
-            CurrentHealth = CurrentHealth - DamageTaken;
-
-            //Debug.Log("Took Damage");
+            CurrentHealth = CurrentHealth - Data.MaxHealth;
+            Debug.Log("HitWall");
 
             if (CurrentHealth <= 0)
             {
                 Destroy(gameObject);
-                //PlayerTakeDmg.GiveHealth();
             }
         }
     }
-
-    private void IsDead()
-    {
-        if (CurrentHealth <= 0)
-        {
-            Destroy(gameObject);
-            
-        }
-    }
-
-    private void FixedUpdate()
-    {
-        //IsDead();
-    }
-
-   /* private void Update()
-    {
-        if (Input.GetKeyDown(KeyCode.K))
-        {
-            Destroy(gameObject);
-        }
-    } 
-   testing purposes
-   */
-
 }
