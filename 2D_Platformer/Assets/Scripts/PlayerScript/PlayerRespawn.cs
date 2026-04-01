@@ -2,6 +2,9 @@ using UnityEngine;
 
 public class PlayerRespawn : MonoBehaviour
 {
+    public PlayerData PData;
+    [SerializeField] float CurrentHealth;
+
     [Header("Default Kill Zone")]
     public float KillZoneY = -10f;
 
@@ -13,12 +16,24 @@ public class PlayerRespawn : MonoBehaviour
     private void Awake()
     {
         RB = GetComponent<Rigidbody2D>();
+        if (PData != null)
+        {
+            CurrentHealth = PData.MaxHealth; //Getting the health from Player data.
+        }
+        else
+        {
+            CurrentHealth = 3;
+        }
     }
 
     private void Update()
     {
         if (transform.position.y < KillZoneY)
         {
+            Respawn();
+        }
+
+        if (CurrentHealth <= 0) {
             Respawn();
         }
     }
@@ -31,4 +46,6 @@ public class PlayerRespawn : MonoBehaviour
         RB.linearVelocity = Vector2.zero;
         RB.angularVelocity = 0f;
     }
+
+
 }
