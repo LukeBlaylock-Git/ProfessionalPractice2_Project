@@ -31,8 +31,14 @@ public class PlayerTakeDmg : MonoBehaviour
         }
     }
 
+    
     private void OnCollisionEnter2D(Collision2D Hit)
     {
+        if (Hit.collider.CompareTag("EnemyHead"))
+        {
+            //GiveHealth();
+        }
+
         if (Hit.collider.CompareTag("Enemy"))
         {
             CurrentHealth = CurrentHealth - DamageTaken;
@@ -45,5 +51,24 @@ public class PlayerTakeDmg : MonoBehaviour
                 Respawn.Respawn();
             }
         }
+
+        if (Hit.collider.CompareTag("DeathPlane"))
+        {
+            CurrentHealth = CurrentHealth - 50;
+            Debug.Log("Player Died");
+            //Debug.Log(CurrentHealth);
+
+            if (CurrentHealth <= 0)
+            {
+                CurrentHealth = PData.MaxHealth;
+                Respawn.Respawn();
+            }
+        }
+    }
+
+    public void GiveHealth()
+    {
+        CurrentHealth = CurrentHealth + 1;
+        Debug.Log(CurrentHealth);
     }
 }

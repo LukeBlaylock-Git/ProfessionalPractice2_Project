@@ -4,6 +4,7 @@ public class TakeDamage : MonoBehaviour
 {
     public EnemyData Data;
     public PlayerData PData;
+    public PlayerTakeDmg PlayerTakeDmg;
 
     private Rigidbody2D RB;
     [Header("Stats")]
@@ -34,12 +35,15 @@ public class TakeDamage : MonoBehaviour
     {
         if (Hit.collider.CompareTag("PHitbox"))
         {
+
             CurrentHealth = CurrentHealth - DamageTaken;
-            Debug.Log("Took Damage");
+
+            //Debug.Log("Took Damage");
 
             if (CurrentHealth <= 0)
             {
                 Destroy(gameObject);
+                //PlayerTakeDmg.GiveHealth();
             }
         }
     }
@@ -58,12 +62,14 @@ public class TakeDamage : MonoBehaviour
         //IsDead();
     }
 
-    private void Update()
+   /* private void Update()
     {
         if (Input.GetKeyDown(KeyCode.K))
         {
             Destroy(gameObject);
         }
-    }
+    } 
+   testing purposes
+   */
 
 }
