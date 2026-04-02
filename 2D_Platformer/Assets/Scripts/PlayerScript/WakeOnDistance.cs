@@ -18,6 +18,7 @@ public class WakeOnDistance : MonoBehaviour
         if (Vector2.Distance(transform.position, player.transform.position) < dist)
         {
             GetComponent<Rigidbody2D>().WakeUp();
+            FindObjectOfType<AudioManager>().Play("PlayerWalk");
         }
 
     }

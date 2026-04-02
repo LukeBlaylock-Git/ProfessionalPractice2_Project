@@ -2,7 +2,7 @@ using UnityEngine;
 
 public class Coin : MonoBehaviour
 {   
-    public CoinManager coinManager;
+    public CoinManager coinManager; 
     public int value;
 
     public void OnTriggerEnter2D(Collider2D collision)
@@ -10,6 +10,9 @@ public class Coin : MonoBehaviour
         if (collision.CompareTag("Player"))
         {
             coinManager.ChangeCoins(value);
+
+            FindObjectOfType<AudioManager>().Play("CoinPickup");
+
             Destroy(gameObject);
         }
         
