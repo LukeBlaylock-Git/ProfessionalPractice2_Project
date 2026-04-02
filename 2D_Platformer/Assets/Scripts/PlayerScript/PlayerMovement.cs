@@ -72,6 +72,7 @@ public class PlayerMovement : MonoBehaviour
         if (JumpPressed && isGrounded)
         {
             RB.linearVelocity = new Vector2(RB.linearVelocity.x, JumpForce);
+            FindObjectOfType<AudioManager>().Play("PlayerJump");
             JumpedThisFrame = true;
         }
 
