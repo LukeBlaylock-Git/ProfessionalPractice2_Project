@@ -9,6 +9,7 @@ TagManager:
   - Enemy
   - DeathPlane
   - EnemyHead
+  - EndofLevel
   layers:
   - Default
   - TransparentFX
