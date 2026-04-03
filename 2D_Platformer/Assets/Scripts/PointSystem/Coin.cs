@@ -11,7 +11,9 @@ public class Coin : MonoBehaviour
         {
             coinManager.ChangeCoins(value);
 
+
             FindObjectOfType<AudioManager>().Play("CoinPickup");
+            
 
             Destroy(gameObject);
         }
