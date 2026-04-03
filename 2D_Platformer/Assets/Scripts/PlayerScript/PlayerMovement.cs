@@ -56,6 +56,7 @@ public class PlayerMovement : MonoBehaviour
         // Horizontal movement (acceleration/deceleration)
         float TargetSpeed = MoveInput * MaxSpeed;
         float AccelRate = (Mathf.Abs(TargetSpeed) > 0.01f) ? Acceleration : Deceleration;
+        FindObjectOfType<AudioManager>().Play("PlayerWalk");
 
         if (!isGrounded)
             AccelRate *= AirControl;
