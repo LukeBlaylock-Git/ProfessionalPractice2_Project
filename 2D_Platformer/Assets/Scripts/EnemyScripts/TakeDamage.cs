@@ -42,6 +42,7 @@ public class TakeDamage : MonoBehaviour
 
             if (CurrentHealth <= 0)
             {
+                FindObjectOfType<AudioManager>().Play("EnemyDead");
                 Destroy(gameObject);
                 //PlayerTakeDmg.GiveHealth();
             }

@@ -1,4 +1,4 @@
-using UnityEngine;
+   using UnityEngine;
 
 public class PlayerTakeDmg : MonoBehaviour
 {
@@ -46,7 +46,8 @@ public class PlayerTakeDmg : MonoBehaviour
             Debug.Log(CurrentHealth);
 
             if (CurrentHealth <= 0)
-            {
+            {   
+                FindObjectOfType<AudioManager>().Play("PlayerRespawn");
                 CurrentHealth = PData.MaxHealth;
                 Respawn.Respawn();
             }
@@ -59,7 +60,8 @@ public class PlayerTakeDmg : MonoBehaviour
             //Debug.Log(CurrentHealth);
 
             if (CurrentHealth <= 0)
-            {
+            {   
+                FindObjectOfType<AudioManager>().Play("PlayerRespawn");
                 CurrentHealth = PData.MaxHealth;
                 Respawn.Respawn();
             }
